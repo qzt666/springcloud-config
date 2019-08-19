@@ -6,7 +6,7 @@
 ---
 spring:
   application:
-    name: config-server-test
+    name: config-server-dev
   profiles: dev
 
 ---
